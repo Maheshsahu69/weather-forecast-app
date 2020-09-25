@@ -1,0 +1,12 @@
+.temp{
+    margin:15px 0;
+    font-size:14px;
+    color: black;
+}
+.temp span{
+    margin:0 3px;
+
+}
+.temp .min{
+    font-weight: 700;
+}
